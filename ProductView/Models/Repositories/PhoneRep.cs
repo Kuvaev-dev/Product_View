@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Products_ASP.Models
+namespace ProductView.Models
 {
     public class PhoneRep
     {
