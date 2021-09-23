@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Products_ASP.Models;
 
-namespace ProductsView.Views.Home
+namespace ProductView.Views.Home
 {
     public class IndexModel : PageModel
     {
