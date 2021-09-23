@@ -10,7 +10,7 @@ namespace Products_ASP.Models
 {
     public class PhoneRep
     {
-        static string connectionString = "Data Source=SQL5080.site4now.net;Initial Catalog=db_a7920a_mkonjibhu;User Id=db_a7920a_mkonjibhu_admin;Password=QwertyuioP123";
+        static string connectionString = "Data Source=SQL5080.site4now.net;Initial Catalog=db_a79439_regdb;User Id=db_a79439_regdb_admin;Password=qwerty009";
 
         public static void Create(Phone value)
         {
