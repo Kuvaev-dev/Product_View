@@ -1,0 +1,13 @@
+﻿@page
+@model Product_View.Views.Home.IndexModel
+<h1>Product Page</h1>
+@foreach (var phone in ViewBag.Phones)
+{
+<div>
+    <h5>@phone.manufacturer</h5>
+    <h6>@phone.model</h6>
+    <h6>@phone.price</h6>
+    <br/>
+    <br/>
+</div>
+}
