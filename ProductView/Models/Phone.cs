@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Products_ASP.Models
+namespace Products_View.Models
 {
     public class Phone
     {
